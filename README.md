@@ -4,8 +4,7 @@
    # 21130100 - Nguyễn Phúc Yên
    # 22130020 - Nguyễn Hồ Thái Bảo
    # 22130002 - Nguyễn Trần Khánh An
-   # 22130073 - Trần Đức Khải
-]
+   # 22130073 - Trần Đức Khải ]
 # Date: 2022-12-15
 # Folder : [
     # data : dữ liệu thô (raw), dữ liệu lọc(filter), dữ liệu đã lọc(cleaned)
