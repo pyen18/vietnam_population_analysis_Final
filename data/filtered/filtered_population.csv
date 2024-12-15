@@ -1,0 +1,64 @@
+Provinces/city,Population density,Average population,Sex ratio,Population grow ratio,15+ labor,Region,Year
+Ha Noi,2182.0,7328.4,96.2,1.5,3822.5,Hong river Delta,2016
+Vinh Phuc,863.0,1066.0,96.8,1.09,629.8,Hong river Delta,2016
+Bac Ninh,1432.0,1178.6,96.8,2.07,666.9,Hong river Delta,2016
+Quang Ninh,198.0,1224.6,100.5,1.3,691.9,Hong river Delta,2016
+Hai Duong,1070.0,1785.8,96.0,0.64,1035.2,Hong river Delta,2016
+Hai Phong,1268.0,1980.8,98.9,0.89,1131.6,Hong river Delta,2016
+Hung Yen,1258.0,1170.2,96.6,0.52,704.4,Hong river Delta,2016
+Thai Binh,1128.0,1790.0,93.6,0.04,1104.7,Hong river Delta,2016
+Ha Nam,932.0,803.7,97.8,0.13,473.4,Hong river Delta,2016
+Nam Dinh,1110.0,1852.6,96.1,0.11,1148.0,Hong river Delta,2016
+Ninh Binh,687.0,953.1,99.6,0.92,585.4,Hong river Delta,2016
+Ha Giang,103.0,816.1,101.4,2.32,524.8,Midlands and northern mountains,2016
+Cao Bang,79.0,529.8,98.2,1.05,360.9,Midlands and northern mountains,2016
+Bac Kan,66.0,319.0,96.9,1.88,228.8,Midlands and northern mountains,2016
+Tuyen Quang,131.0,766.9,96.8,0.86,482.9,Midlands and northern mountains,2016
+Lao Cai,108.0,684.3,102.1,1.45,432.8,Midlands and northern mountains,2016
+Yen Bai,116.0,800.1,99.9,0.91,519.4,Midlands and northern mountains,2016
+Thai Nguyen,348.0,1227.4,96.6,2.34,729.9,Midlands and northern mountains,2016
+Lang Son,92.0,768.7,100.5,1.06,507.9,Midlands and northern mountains,2016
+Bac Giang,426.0,1657.6,98.7,1.02,1034.5,Midlands and northern mountains,2016
+Phu Tho,391.0,1381.7,97.3,0.81,819.7,Midlands and northern mountains,2016
+Dien Bien,58.0,557.4,100.0,1.75,348.4,Midlands and northern mountains,2016
+Lai Chau,48.0,436.0,97.5,2.48,268.8,Midlands and northern mountains,2016
+Son La,86.0,1208.0,101.0,1.76,750.8,Midlands and northern mountains,2016
+Hoa Binh,181.0,831.3,99.7,0.86,553.2,Midlands and northern mountains,2016
+Thanh Hoa,317.0,3528.3,99.3,0.46,2241.2,North Central and Central Coast,2016
+Nghe An,188.0,3105.5,100.0,0.83,1878.8,North Central and Central Coast,2016
+Ha Tinh,211.0,1266.7,96.6,0.43,718.4,North Central and Central Coast,2016
+Quang Binh,110.0,877.7,100.2,0.55,531.1,North Central and Central Coast,2016
+Quang Tri,135.0,623.5,96.4,0.59,348.9,North Central and Central Coast,2016
+Thua Thien Hue,235.0,1149.8,98.8,0.72,631.7,North Central and Central Coast,2016
+Da Nang,814.0,1046.2,97.1,1.8,556.1,North Central and Central Coast,2016
+Quang Nam,141.0,1487.7,95.7,0.47,902.0,North Central and Central Coast,2016
+Quang Ngai,243.0,1251.5,97.6,0.63,767.4,North Central and Central Coast,2016
+Binh Dinh,251.0,1524.6,95.5,0.29,931.4,North Central and Central Coast,2016
+Phu Yen,179.0,899.4,100.0,0.68,545.7,North Central and Central Coast,2016
+Khanh Hoa,236.0,1213.8,96.9,0.7,689.6,North Central and Central Coast,2016
+Ninh Thuan,179.0,601.4,101.8,0.92,347.7,North Central and Central Coast,2016
+Binh Thuan,154.0,1222.7,100.2,0.63,716.3,North Central and Central Coast,2016
+Kon Tum,52.0,507.8,114.1,2.4,300.9,Highlands,2016
+Gia Lai,91.0,1417.3,98.3,1.42,856.6,Highlands,2016
+Dak Lak,144.0,1874.5,101.3,1.12,1149.4,Highlands,2016
+Dak Nong,93.0,605.4,106.9,3.51,381.3,Highlands,2016
+Lam Dong,132.0,1288.2,101.6,1.01,793.8,Highlands,2016
+Binh Phuoc,139.0,956.4,96.5,1.28,581.1,South East,2016
+Tay Ninh,277.0,1118.8,100.1,0.66,651.4,South East,2016
+Binh Duong,741.0,1995.8,93.4,3.39,1280.1,South East,2016
+Dong Nai,505.0,2963.8,94.1,2.21,1634.7,South East,2016
+Ba Ria - Vung Tau,551.0,1092.0,100.2,1.04,598.0,South East,2016
+Ho Chi Minh,4025.0,8297.5,91.9,1.96,4335.7,South East,2016
+Long An,332.0,1490.6,98.7,0.43,899.4,Mekong Delta,2016
+Tien Giang,693.0,1740.2,96.3,0.7,1101.8,Mekong Delta,2016
+Ben Tre,528.0,1265.2,96.6,0.12,807.3,Mekong Delta,2016
+Tra Vinh,441.0,1040.5,95.6,0.57,615.5,Mekong Delta,2016
+Vinh Long,687.0,1048.6,97.2,0.34,630.4,Mekong Delta,2016
+Dong Thap,499.0,1687.3,99.2,0.18,1112.1,Mekong Delta,2016
+An Giang,611.0,2159.9,98.1,0.07,1228.3,Mekong Delta,2016
+Kien Giang,280.0,1776.7,100.4,0.89,1006.2,Mekong Delta,2016
+Can Tho,874.0,1257.9,99.3,1.17,712.9,Mekong Delta,2016
+Hau Giang,476.0,772.5,95.9,0.26,471.7,Mekong Delta,2016
+Soc Trang,396.0,1312.5,98.4,0.14,712.1,Mekong Delta,2016
+Bac Lieu,332.0,886.2,101.3,0.47,513.0,Mekong Delta,2016
+Ca Mau,234.0,1222.6,100.4,0.3,708.6,Mekong Delta,2016

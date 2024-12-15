@@ -1,0 +1,631 @@
+﻿Provinces/city,Population density,Average population,Sex ratio,Population grow ratio,15+ labor,Region,Year
+Ha Noi,2031.1,6761.3,97.8,1.93,3572.9,Hong river Delta,2011
+Vinh Phuc,818,1011.4,97.6,0.38,608.3,Hong river Delta,2011
+Bac Ninh,1292.6,1063.4,96.7,1.84,593.5,Hong river Delta,2011
+Quang Ninh,191.4,1168,105.4,0.93,675,Hong river Delta,2011
+Hai Duong,1044.6,1729.8,96.1,0.78,1071,Hong river Delta,2011
+Hai Phong,1234,1879.8,98.5,1.19,1075.3,Hong river Delta,2011
+Hung Yen,1229.4,1138.4,97.1,0.54,707.1,Hong river Delta,2011
+Thai Binh,1137.5,1785.9,94.6,0.07,1134.2,Hong river Delta,2011
+Ha Nam,914.5,786.9,95.5,0.07,464,Hong river Delta,2011
+Nam Dinh,1110.3,1833.5,95.8,0.19,1082.2,Hong river Delta,2011
+Ninh Binh,652.9,907.7,99.1,0.66,553,Hong river Delta,2011
+Ha Giang,94.3,746.6,99.8,1.75,467.7,Midlands and northern mountains,2011
+Cao Bang,76.6,514,98.3,0.18,341.2,Midlands and northern mountains,2011
+Bac Kan,61.8,300.4,102.6,0.99,199.6,Midlands and northern mountains,2011
+Tuyen Quang,125.3,734.9,100.5,0.76,450.3,Midlands and northern mountains,2011
+Lao Cai,99.8,637,101.3,1.63,377.8,Midlands and northern mountains,2011
+Yen Bai,110.2,758.6,99.7,0.98,478.5,Midlands and northern mountains,2011
+Thai Nguyen,322.6,1139.4,97.2,0.72,687.7,Midlands and northern mountains,2011
+Lang Son,89,740.8,99.6,0.61,480.1,Midlands and northern mountains,2011
+Bac Giang,411.5,1581.8,98.5,0.76,989.4,Midlands and northern mountains,2011
+Phu Tho,376.2,1329.3,97.3,0.51,841.3,Midlands and northern mountains,2011
+Dien Bien,53.4,510.8,100.1,1.92,300.4,Midlands and northern mountains,2011
+Lai Chau,42.9,389.4,104.7,2.27,224.8,Midlands and northern mountains,2011
+Son La,78.9,1118.6,101,1.79,684,Midlands and northern mountains,2011
+Hoa Binh,173.4,799,98.3,0.93,536.2,Midlands and northern mountains,2011
+Thanh Hoa,308.8,3437.7,97.7,0.47,2225.1,North Central and Central Coast,2011
+Nghe An,179.2,2955.9,98.5,0.75,1757.8,North Central and Central Coast,2011
+Ha Tinh,206.4,1237.8,97.8,0.42,702.3,North Central and Central Coast,2011
+Quang Binh,105.8,853.4,100.1,0.56,484.4,North Central and Central Coast,2011
+Quang Tri,127.6,604.7,97.9,0.51,334,North Central and Central Coast,2011
+Thua Thien Hue,219.2,1103.1,98,1.12,596.8,North Central and Central Coast,2011
+Da Nang,736,946,95.7,2.53,496.2,North Central and Central Coast,2011
+Quang Nam,138.2,1442.7,95.6,0.66,811.6,North Central and Central Coast,2011
+Quang Ngai,237.8,1225.2,97.3,0.35,711,North Central and Central Coast,2011
+Binh Dinh,247.6,1498.2,95.1,0.42,880.4,North Central and Central Coast,2011
+Phu Yen,171.9,870,100.2,0.45,513.1,North Central and Central Coast,2011
+Khanh Hoa,224.5,1171.4,98,0.61,656.6,North Central and Central Coast,2011
+Ninh Thuan,170.9,574.1,100.9,0.81,317.2,North Central and Central Coast,2011
+Binh Thuan,151.6,1184.5,100.9,0.66,664.4,North Central and Central Coast,2011
+Kon Tum,46.6,451.6,109.7,2.15,259.7,Highlands,2011
+Gia Lai,85.1,1321.7,103.1,1.55,783.9,Highlands,2011
+Dak Lak,134.9,1770.5,101.9,1.02,1012.2,Highlands,2011
+Dak Nong,79.7,519.6,112.2,3.13,306.6,Highlands,2011
+Lam Dong,124.7,1218.7,100.1,1.21,689.1,Highlands,2011
+Binh Phuoc,130.6,897.3,101.9,1.29,531.7,South East,2011
+Tay Ninh,267.8,1082,98.2,0.72,644.5,South East,2011
+Binh Duong,615.8,1659.1,92.7,4.3,1077.6,South East,2011
+Dong Nai,446.9,2640.2,96.8,2.67,1553.8,South East,2011
+Ba Ria - Vung Tau,513.9,1022.5,99.9,1.1,553.9,South East,2011
+Ho Chi Minh,3578.2,7498.4,91.1,2.07,4000.9,South East,2011
+Long An,322.7,1449.9,98.7,0.49,841.7,Mekong Delta,2011
+Tien Giang,670.8,1682.6,97.2,0.27,987.7,Mekong Delta,2011
+Ben Tre,532.7,1257.4,96.3,0.06,777.1,Mekong Delta,2011
+Tra Vinh,432.7,1013.1,97.1,0.5,616.6,Mekong Delta,2011
+Vinh Long,687.5,1029.1,97.1,0.25,622.8,Mekong Delta,2011
+Dong Thap,495,1671.7,99.3,0.12,994.4,Mekong Delta,2011
+An Giang,607.6,2149,98.9,0.03,1300.4,Mekong Delta,2011
+Kien Giang,269.5,1710.9,101.1,0.72,1008.6,Mekong Delta,2011
+Can Tho,857.3,1208,98.8,0.84,690.7,Mekong Delta,2011
+Hau Giang,475.3,761.7,101.6,0.25,456,Mekong Delta,2011
+Soc Trang,392.1,1298.4,98.8,0.21,744.1,Mekong Delta,2011
+Bac Lieu,350.3,864.9,99,0.46,514,Mekong Delta,2011
+Ca Mau,228.5,1210,101,0.13,684.3,Mekong Delta,2011
+Ha Noi,2065.6,6865.2,95.4,1.54,3702.5,Hong river Delta,2012
+Vinh Phuc,826.8,1022.4,97.6,1.09,607.2,Hong river Delta,2012
+Bac Ninh,1319.8,1085.8,96.8,2.1,625.3,Hong river Delta,2012
+Quang Ninh,193,1177.7,103.4,0.83,691.9,Hong river Delta,2012
+Hai Duong,1051.8,1741.7,96.1,0.69,1060.6,Hong river Delta,2012
+Hai Phong,1249.5,1904.1,98.6,1.29,1089,Hong river Delta,2012
+Hung Yen,1235.5,1144.1,97.5,0.5,702,Hong river Delta,2012
+Thai Binh,1138.5,1787.4,93.8,0.08,1113.1,Hong river Delta,2012
+Ha Nam,920.6,792.2,96.1,0.68,469.2,Hong river Delta,2012
+Nam Dinh,1110.4,1835.1,95.8,0.09,1112.1,Hong river Delta,2012
+Ninh Binh,667.6,919.1,99.3,1.26,553.4,Hong river Delta,2012
+Ha Giang,96.2,761.6,99.9,2.01,463.4,Midlands and northern mountains,2012
+Cao Bang,76.8,515.2,98.1,0.23,343.8,Midlands and northern mountains,2012
+Bac Kan,62.4,303,102.4,0.86,204.8,Midlands and northern mountains,2012
+Tuyen Quang,126.3,740.8,100.1,0.8,467,Midlands and northern mountains,2012
+Lao Cai,101.3,646.5,101.3,1.5,396.7,Midlands and northern mountains,2012
+Yen Bai,111.2,765.7,99.3,0.93,479.6,Midlands and northern mountains,2012
+Thai Nguyen,325.1,1149.1,97.2,0.85,716.5,Midlands and northern mountains,2012
+Lang Son,89.6,745.3,99.8,0.6,488.1,Midlands and northern mountains,2012
+Bac Giang,413.9,1592.9,98.4,0.7,999.1,Midlands and northern mountains,2012
+Phu Tho,379.5,1340.8,97.3,0.86,855.1,Midlands and northern mountains,2012
+Dien Bien,54.3,519.7,100.2,1.74,306.4,Midlands and northern mountains,2012
+Lai Chau,43.8,397.3,104.9,2.03,238.2,Midlands and northern mountains,2012
+Son La,80,1134.4,101,1.41,710.9,Midlands and northern mountains,2012
+Hoa Binh,174.7,805.2,98.2,0.77,539.6,Midlands and northern mountains,2012
+Thanh Hoa,310.6,3457.9,97.6,0.59,2138.1,North Central and Central Coast,2012
+Nghe An,180.9,2983.3,98.4,0.92,1826.3,North Central and Central Coast,2012
+Ha Tinh,207.3,1243.2,97.7,0.44,706.4,North Central and Central Coast,2012
+Quang Binh,106.4,858.3,100.1,0.57,513.8,North Central and Central Coast,2012
+Quang Tri,128.3,608.2,98.1,0.57,332.4,North Central and Central Coast,2012
+Thua Thien Hue,221.3,1113.9,97.8,0.98,614.8,North Central and Central Coast,2012
+Da Nang,751.8,966.3,97.3,2.14,508.8,North Central and Central Coast,2012
+Quang Nam,139.2,1452.9,95.7,0.71,838.7,North Central and Central Coast,2012
+Quang Ngai,238.7,1229.8,97.3,0.37,725.7,North Central and Central Coast,2012
+Binh Dinh,248.3,1502.4,95.1,0.28,893.9,North Central and Central Coast,2012
+Phu Yen,173.1,876.1,100.2,0.7,540.5,North Central and Central Coast,2012
+Khanh Hoa,226.2,1180.1,97.7,0.75,650.7,North Central and Central Coast,2012
+Ninh Thuan,172.5,579.4,101.6,0.91,318.1,North Central and Central Coast,2012
+Binh Thuan,152.5,1191.6,101.1,0.6,701.1,North Central and Central Coast,2012
+Kon Tum,47.8,462.7,113.5,2.46,265,Highlands,2012
+Gia Lai,86.3,1340.5,104.3,1.42,797.3,Highlands,2012
+Dak Lak,136.5,1791.4,101.8,1.18,1033.1,Highlands,2012
+Dak Nong,82.4,536.7,114.1,3.3,320.7,Highlands,2012
+Lam Dong,126.1,1232,100.1,1.09,720.4,Highlands,2012
+Binh Phuoc,132.3,908.9,101.9,1.29,568.4,South East,2012
+Tay Ninh,269.7,1089.7,97.7,0.71,649.2,South East,2012
+Binh Duong,642.4,1731,93.1,4.33,1147.2,South East,2012
+Dong Nai,458.4,2707.8,96.2,2.56,1585,South East,2012
+Ba Ria - Vung Tau,519.2,1033,99.8,1.03,567.8,South East,2012
+Ho Chi Minh,3655.4,7660.3,93.1,2.16,4086.4,South East,2012
+Long An,325.1,1460.3,98.7,0.72,894.2,Mekong Delta,2012
+Tien Giang,674.8,1692.5,96.2,0.59,1029.4,Mekong Delta,2012
+Ben Tre,534,1258.9,96.1,0.12,770.8,Mekong Delta,2012
+Tra Vinh,435,1018.4,97,0.52,604.4,Mekong Delta,2012
+Vinh Long,687.4,1034.5,97.2,0.53,619.1,Mekong Delta,2012
+Dong Thap,496,1675,99.2,0.2,985.2,Mekong Delta,2012
+An Giang,608.3,2151.2,98.9,0.1,1304.4,Mekong Delta,2012
+Kien Giang,271.5,1723.8,101,0.76,1036.8,Mekong Delta,2012
+Can Tho,864.7,1218.3,98.9,0.85,698.9,Mekong Delta,2012
+Hau Giang,476.6,763.8,101.6,0.28,456.4,Mekong Delta,2012
+Soc Trang,393,1301.5,98.7,0.24,749.4,Mekong Delta,2012
+Bac Lieu,352.1,869.3,98.9,0.5,516,Mekong Delta,2012
+Ca Mau,228.9,1212.1,100.8,0.17,697.7,Mekong Delta,2012
+Ha Noi,2098.8,6977,96.4,1.63,3799.6,Hong river Delta,2013
+Vinh Phuc,831.1,1029.4,97.6,0.68,613.2,Hong river Delta,2013
+Bac Ninh,1347,1108.2,96.6,2.06,642.1,Hong river Delta,2013
+Quang Ninh,194.6,1187.5,106,0.82,711.4,Hong river Delta,2013
+Hai Duong,1057.9,1751.8,95.7,0.58,1077,Hong river Delta,2013
+Hai Phong,1260.4,1925.2,98.7,1.11,1125.6,Hong river Delta,2013
+Hung Yen,1243.6,1151.6,97.6,0.66,708.3,Hong river Delta,2013
+Thai Binh,1138.6,1788.1,93.7,0.04,1103.6,Hong river Delta,2013
+Ha Nam,925,796,96.8,0.48,473.7,Hong river Delta,2013
+Nam Dinh,1113.2,1839.9,96,0.26,1145.4,Hong river Delta,2013
+Ninh Binh,672.8,927.2,99.1,0.87,584.1,Hong river Delta,2013
+Ha Giang,98,775.8,100.6,1.86,499.1,Midlands and northern mountains,2013
+Cao Bang,77.2,517.9,98,0.53,356.1,Midlands and northern mountains,2013
+Bac Kan,62.8,305.2,103.1,0.7,214.9,Midlands and northern mountains,2013
+Tuyen Quang,127.3,747.2,99.7,0.87,479.1,Midlands and northern mountains,2013
+Lao Cai,102.7,655.9,101,1.45,405.3,Midlands and northern mountains,2013
+Yen Bai,112.5,774.6,99.4,1.16,495.9,Midlands and northern mountains,2013
+Thai Nguyen,326.9,1156,97.2,0.6,716.3,Midlands and northern mountains,2013
+Lang Son,90.1,749.7,99.6,0.6,498.5,Midlands and northern mountains,2013
+Bac Giang,417.7,1608,96.6,0.95,1000,Midlands and northern mountains,2013
+Phu Tho,382.4,1351.2,97.3,0.78,867,Midlands and northern mountains,2013
+Dien Bien,55.3,528.5,100.3,1.69,327.7,Midlands and northern mountains,2013
+Lai Chau,44.7,405.7,103,2.1,246.4,Midlands and northern mountains,2013
+Son La,81.2,1150.5,101.2,1.42,721.8,Midlands and northern mountains,2013
+Hoa Binh,175.8,810.3,97.7,0.64,552,Midlands and northern mountains,2013
+Thanh Hoa,312.4,3477.7,97.2,0.57,2224.2,North Central and Central Coast,2013
+Nghe An,182.6,3011.3,98,0.94,1920.4,North Central and Central Coast,2013
+Ha Tinh,208.3,1249.1,97,0.48,700.9,North Central and Central Coast,2013
+Quang Binh,107.1,863.4,100.2,0.59,516.5,North Central and Central Coast,2013
+Quang Tri,129.3,613,97.3,0.8,346.2,North Central and Central Coast,2013
+Thua Thien Hue,223.1,1122.7,97.6,0.79,636.6,North Central and Central Coast,2013
+Da Nang,767.7,986.8,97.3,2.12,527.6,North Central and Central Coast,2013
+Quang Nam,140.2,1463.2,95.7,0.71,858.2,North Central and Central Coast,2013
+Quang Ngai,240,1236.3,97.4,0.52,726.2,North Central and Central Coast,2013
+Binh Dinh,249.4,1509.3,95.1,0.46,920.1,North Central and Central Coast,2013
+Phu Yen,174.3,882,100.2,0.67,545.4,North Central and Central Coast,2013
+Khanh Hoa,227.8,1188.4,97.9,0.7,677,North Central and Central Coast,2013
+Ninh Thuan,174.2,584.9,101.9,0.94,325.1,North Central and Central Coast,2013
+Binh Thuan,153.5,1199.5,100.9,0.66,697,North Central and Central Coast,2013
+Kon Tum,48.8,473.3,113.8,2.28,278.9,Highlands,2013
+Gia Lai,87.5,1359.1,105.5,1.39,821.5,Highlands,2013
+Dak Lak,138.1,1812.8,101.3,1.19,1077.6,Highlands,2013
+Dak Nong,85.2,555.1,109.3,3.42,349.2,Highlands,2013
+Lam Dong,127.4,1245.4,99.6,1.09,722.2,Highlands,2013
+Binh Phuoc,134,920.7,101.9,1.3,562.2,South East,2013
+Tay Ninh,272,1096.9,96.9,0.66,647.9,South East,2013
+Binh Duong,669,1802.5,93.3,4.13,1197.7,South East,2013
+Dong Nai,469.4,2772.7,95.6,2.4,1580,South East,2013
+Ba Ria - Vung Tau,526,1046.5,99.4,1.31,577.6,South East,2013
+Ho Chi Minh,3731.6,7820,93.2,2.08,4122.3,South East,2013
+Long An,327.2,1469.9,98.7,0.65,898.1,Mekong Delta,2013
+Tien Giang,679,1703.4,96.3,0.65,1072.3,Mekong Delta,2013
+Ben Tre,534.3,1260.6,96,0.13,775.8,Mekong Delta,2013
+Tra Vinh,437.3,1023.9,96.6,0.54,607.9,Mekong Delta,2013
+Vinh Long,682.7,1037.8,96.8,0.32,625.2,Mekong Delta,2013
+Dong Thap,496.7,1678.4,98.8,0.2,986,Mekong Delta,2013
+An Giang,608.8,2153.3,98.6,0.1,1275.8,Mekong Delta,2013
+Kien Giang,273.2,1734.3,100.7,0.61,990.8,Mekong Delta,2013
+Can Tho,871.9,1228.5,98.7,0.83,698.6,Mekong Delta,2013
+Hau Giang,478.2,766.2,101.4,0.31,462.3,Mekong Delta,2013
+Soc Trang,394,1304.7,98.3,0.24,729.3,Mekong Delta,2013
+Bac Lieu,353.9,873.6,98.5,0.5,504.5,Mekong Delta,2013
+Ca Mau,229.3,1214.2,100.7,0.18,696.2,Mekong Delta,2013
+Ha Noi,2134,7095.9,95,1.7,3832.4,Hong river Delta,2014
+Vinh Phuc,842,1041.9,96.8,1.22,631.2,Hong river Delta,2014
+Bac Ninh,1375,1131.2,96.7,2.08,658.2,Hong river Delta,2014
+Quang Ninh,197,1199.4,100.5,1.01,697.2,Hong river Delta,2014
+Hai Duong,1065,1763.2,95.8,0.65,1049.5,Hong river Delta,2014
+Hai Phong,1274,1946,98.7,1.08,1127.7,Hong river Delta,2014
+Hung Yen,1251,1158.1,97.3,0.56,705,Hong river Delta,2014
+Thai Binh,1139,1788.7,93.7,0.03,1115.3,Hong river Delta,2014
+Ha Nam,927,799.4,97.3,0.43,472.4,Hong river Delta,2014
+Nam Dinh,1116,1845.6,96.1,0.31,1157.8,Hong river Delta,2014
+Ninh Binh,679,935.8,96.2,0.93,585.8,Hong river Delta,2014
+Ha Giang,100,788.8,100.4,1.68,505.3,Midlands and northern mountains,2014
+Cao Bang,78,520.2,98,0.43,357.3,Midlands and northern mountains,2014
+Bac Kan,63,307.3,101,0.69,219.6,Midlands and northern mountains,2014
+Tuyen Quang,128,753.8,98.7,0.88,485.1,Midlands and northern mountains,2014
+Lao Cai,104,665.2,102.4,1.41,412.6,Midlands and northern mountains,2014
+Yen Bai,114,783.5,99.5,1.16,503.5,Midlands and northern mountains,2014
+Thai Nguyen,332,1173.2,97.2,1.49,715.9,Midlands and northern mountains,2014
+Lang Son,91,753.7,100,0.53,505.1,Midlands and northern mountains,2014
+Bac Giang,422,1624.5,98.7,1.03,1022.6,Midlands and northern mountains,2014
+Phu Tho,385,1360.2,97.3,0.67,839.6,Midlands and northern mountains,2014
+Dien Bien,56,538.1,100.2,1.82,345.4,Midlands and northern mountains,2014
+Lai Chau,46,415.3,101.1,2.38,251.1,Midlands and northern mountains,2014
+Son La,82,1166.4,101.5,1.38,734.7,Midlands and northern mountains,2014
+Hoa Binh,177,817.4,98.5,0.86,550.7,Midlands and northern mountains,2014
+Thanh Hoa,314,3496.1,97.9,0.53,2231.8,North Central and Central Coast,2014
+Nghe An,184,3037.4,98.7,0.87,1953.1,North Central and Central Coast,2014
+Ha Tinh,209,1255.3,96.5,0.49,727.8,North Central and Central Coast,2014
+Quang Binh,108,868.2,100.2,0.56,528.9,North Central and Central Coast,2014
+Quang Tri,130,616.4,97.1,0.55,348.6,North Central and Central Coast,2014
+Thua Thien Hue,225,1131.8,98.1,0.8,662.6,North Central and Central Coast,2014
+Da Nang,784,1007.7,96.6,2.11,541.2,North Central and Central Coast,2014
+Quang Nam,141,1471.8,95.7,0.59,890.3,North Central and Central Coast,2014
+Quang Ngai,241,1241.4,97.1,0.42,753.8,North Central and Central Coast,2014
+Binh Dinh,250,1514.5,95.5,0.34,931.4,North Central and Central Coast,2014
+Phu Yen,175,887.4,100.1,0.61,538.8,North Central and Central Coast,2014
+Khanh Hoa,229,1196.9,97.6,0.71,691,North Central and Central Coast,2014
+Ninh Thuan,176,590.4,101.8,0.94,333.9,North Central and Central Coast,2014
+Binh Thuan,155,1207.4,100.2,0.66,705.4,North Central and Central Coast,2014
+Kon Tum,50,484.2,113.9,2.32,288.4,Highlands,2014
+Gia Lai,89,1377.8,99.3,1.37,833.3,Highlands,2014
+Dak Lak,140,1833.3,101.3,1.13,1092.7,Highlands,2014
+Dak Nong,88,571.3,102.3,2.91,353.5,Highlands,2014
+Lam Dong,129,1259.3,100.3,1.11,748.9,Highlands,2014
+Binh Phuoc,136,932.5,99.1,1.29,564.2,South East,2014
+Tay Ninh,274,1104.2,97.9,0.67,636.7,South East,2014
+Binh Duong,695,1873.6,93.3,3.94,1268.7,South East,2014
+Dong Nai,481,2838.6,95,2.38,1627.5,South East,2014
+Ba Ria - Vung Tau,533,1059.5,99.7,1.24,537.4,South East,2014
+Ho Chi Minh,3809,7981.9,92.2,2.07,4188.5,South East,2014
+Long An,329,1477.3,98.7,0.51,890.9,Mekong Delta,2014
+Tien Giang,684,1716.1,96.3,0.75,1050.8,Mekong Delta,2014
+Ben Tre,535,1262.2,96.2,0.13,808.6,Mekong Delta,2014
+Tra Vinh,440,1029.3,96.3,0.53,609.7,Mekong Delta,2014
+Vinh Long,685,1041.5,97,0.36,627.6,Mekong Delta,2014
+Dong Thap,498,1681.3,99.8,0.17,1016.8,Mekong Delta,2014
+An Giang,610,2155.8,98.1,0.11,1218.3,Mekong Delta,2014
+Kien Giang,275,1745.5,100.4,0.64,1007.1,Mekong Delta,2014
+Can Tho,879,1238.3,98.4,0.8,700,Mekong Delta,2014
+Hau Giang,480,768.4,99.5,0.28,453.3,Mekong Delta,2014
+Soc Trang,395,1307.7,100.3,0.24,699.6,Mekong Delta,2014
+Bac Lieu,356,877.9,101.3,0.48,505.8,Mekong Delta,2014
+Ca Mau,230,1216.4,100.6,0.18,700.1,Mekong Delta,2014
+Ha Noi,2171,7216,95.6,1.51,3820.9,Hong river Delta,2015
+Vinh Phuc,852,1054.5,96.8,1.21,631.4,Hong river Delta,2015
+Bac Ninh,1404,1154.7,96.8,2.07,661.7,Hong river Delta,2015
+Quang Ninh,199,1211.3,100.5,0.99,692.4,Hong river Delta,2015
+Hai Duong,1072,1774.5,95.9,0.64,1037.5,Hong river Delta,2015
+Hai Phong,1285,1963.3,98.8,0.89,1128.1,Hong river Delta,2015
+Hung Yen,1257,1164.4,97,0.52,702.4,Hong river Delta,2015
+Thai Binh,1139,1789.2,93.6,0.02,1110.8,Hong river Delta,2015
+Ha Nam,931,802.7,97.7,0.42,472.1,Hong river Delta,2015
+Nam Dinh,1119,1850.6,96.2,0.27,1150.5,Hong river Delta,2015
+Ninh Binh,686,944.4,99.5,0.92,584.5,Hong river Delta,2015
+Ha Giang,101,802,101.4,1.64,512.1,Midlands and northern mountains,2015
+Cao Bang,78,522.4,97.8,0.86,360.9,Midlands and northern mountains,2015
+Bac Kan,64,313.1,98.9,1.89,223.5,Midlands and northern mountains,2015
+Tuyen Quang,130,760.3,97.8,0.87,485.5,Midlands and northern mountains,2015
+Lao Cai,106,674.5,102.2,1.41,422.5,Midlands and northern mountains,2015
+Yen Bai,115,792.7,99.8,1.22,512.5,Midlands and northern mountains,2015
+Thai Nguyen,337,1190.6,96.6,3.59,725.5,Midlands and northern mountains,2015
+Lang Son,91,757.9,100.3,0.92,508.5,Midlands and northern mountains,2015
+Bac Giang,426,1640.9,98.7,1.01,1036.1,Midlands and northern mountains,2015
+Phu Tho,388,1369.7,97.3,0.76,822.7,Midlands and northern mountains,2015
+Dien Bien,57,547.8,100,1.81,353.2,Midlands and northern mountains,2015
+Lai Chau,47,425.1,99.2,2.2,255.9,Midlands and northern mountains,2015
+Son La,83,1182.4,101.2,1.8,753.1,Midlands and northern mountains,2015
+Hoa Binh,179,824.3,98.5,0.85,555,Midlands and northern mountains,2015
+Thanh Hoa,316,3514.2,98.6,0.46,2238.3,North Central and Central Coast,2015
+Nghe An,186,3063.9,99.3,1.4,1892,North Central and Central Coast,2015
+Ha Tinh,210,1261.3,96.5,0.48,745.3,North Central and Central Coast,2015
+Quang Binh,108,872.9,100.2,0.55,520.4,North Central and Central Coast,2015
+Quang Tri,131,619.9,97.2,0.58,349.7,North Central and Central Coast,2015
+Thua Thien Hue,227,1140.7,98.4,0.88,636.2,North Central and Central Coast,2015
+Da Nang,800,1028.8,96.6,1.9,547,North Central and Central Coast,2015
+Quang Nam,142,1480.3,95.7,0.54,890.2,North Central and Central Coast,2015
+Quang Ngai,242,1246.4,96.8,0.41,760.9,North Central and Central Coast,2015
+Binh Dinh,251,1519.7,95.5,0.38,912.9,North Central and Central Coast,2015
+Phu Yen,177,893.4,100.1,0.68,538.6,North Central and Central Coast,2015
+Khanh Hoa,231,1205.3,97.2,0.7,690.5,North Central and Central Coast,2015
+Ninh Thuan,177,595.9,101.8,0.93,343.1,North Central and Central Coast,2015
+Binh Thuan,156,1215.2,100.2,0.63,710,North Central and Central Coast,2015
+Kon Tum,51,495.9,114,2.41,293.2,Highlands,2015
+Gia Lai,90,1397.4,93.6,1.42,842.4,Highlands,2015
+Dak Lak,141,1853.7,101.3,1.12,1128.1,Highlands,2015
+Dak Nong,90,587.8,102.3,2.9,374,Highlands,2015
+Lam Dong,130,1273.1,101,1.1,778.1,Highlands,2015
+Binh Phuoc,137,944.4,96.5,1.27,573,South East,2015
+Tay Ninh,276,1111.5,99,0.66,643.9,South East,2015
+Binh Duong,723,1947.2,93.3,3.04,1270.8,South East,2015
+Dong Nai,492,2905.8,94.5,2.08,1630.3,South East,2015
+Ba Ria - Vung Tau,539,1072.6,99.9,1.84,570,South East,2015
+Ho Chi Minh,3888,8146.3,91.8,1.83,4251.4,South East,2015
+Long An,330,1484.7,98.7,0.45,893.4,Mekong Delta,2015
+Tien Giang,689,1728.7,96.3,0.7,1080.9,Mekong Delta,2015
+Ben Tre,536,1263.7,96.4,0.12,809.4,Mekong Delta,2015
+Tra Vinh,442,1034.6,95.9,0.52,611.1,Mekong Delta,2015
+Vinh Long,687,1045,97.1,0.34,627.6,Mekong Delta,2015
+Dong Thap,498,1684.3,99.2,0.17,1017.5,Mekong Delta,2015
+An Giang,610,2158.3,98.1,0.12,1218.9,Mekong Delta,2015
+Kien Giang,277,1761,100.4,0.89,1005.1,Mekong Delta,2015
+Can Tho,886,1248,99.1,0.79,693.1,Mekong Delta,2015
+Hau Giang,481,770.4,97.7,0.27,462.9,Mekong Delta,2015
+Soc Trang,396,1310.7,98.4,0.23,704.1,Mekong Delta,2015
+Bac Lieu,357,882,101.3,0.47,506.5,Mekong Delta,2015
+Ca Mau,230,1218.9,100.6,0.21,704.1,Mekong Delta,2015
+Ha Noi,2182,7328.4,96.2,1.5,3822.5,Hong river Delta,2016
+Vinh Phuc,863,1066,96.8,1.09,629.8,Hong river Delta,2016
+Bac Ninh,1432,1178.6,96.8,2.07,666.9,Hong river Delta,2016
+Quang Ninh,198,1224.6,100.5,1.3,691.9,Hong river Delta,2016
+Hai Duong,1070,1785.8,96,0.64,1035.2,Hong river Delta,2016
+Hai Phong,1268,1980.8,98.9,0.89,1131.6,Hong river Delta,2016
+Hung Yen,1258,1170.2,96.6,0.52,704.4,Hong river Delta,2016
+Thai Binh,1128,1790,93.6,0.04,1104.7,Hong river Delta,2016
+Ha Nam,932,803.7,97.8,0.13,473.4,Hong river Delta,2016
+Nam Dinh,1110,1852.6,96.1,0.11,1148,Hong river Delta,2016
+Ninh Binh,687,953.1,99.6,0.92,585.4,Hong river Delta,2016
+Ha Giang,103,816.1,101.4,2.32,524.8,Midlands and northern mountains,2016
+Cao Bang,79,529.8,98.2,1.05,360.9,Midlands and northern mountains,2016
+Bac Kan,66,319,96.9,1.88,228.8,Midlands and northern mountains,2016
+Tuyen Quang,131,766.9,96.8,0.86,482.9,Midlands and northern mountains,2016
+Lao Cai,108,684.3,102.1,1.45,432.8,Midlands and northern mountains,2016
+Yen Bai,116,800.1,99.9,0.91,519.4,Midlands and northern mountains,2016
+Thai Nguyen,348,1227.4,96.6,2.34,729.9,Midlands and northern mountains,2016
+Lang Son,92,768.7,100.5,1.06,507.9,Midlands and northern mountains,2016
+Bac Giang,426,1657.6,98.7,1.02,1034.5,Midlands and northern mountains,2016
+Phu Tho,391,1381.7,97.3,0.81,819.7,Midlands and northern mountains,2016
+Dien Bien,58,557.4,100,1.75,348.4,Midlands and northern mountains,2016
+Lai Chau,48,436,97.5,2.48,268.8,Midlands and northern mountains,2016
+Son La,86,1208,101,1.76,750.8,Midlands and northern mountains,2016
+Hoa Binh,181,831.3,99.7,0.86,553.2,Midlands and northern mountains,2016
+Thanh Hoa,317,3528.3,99.3,0.46,2241.2,North Central and Central Coast,2016
+Nghe An,188,3105.5,100,0.83,1878.8,North Central and Central Coast,2016
+Ha Tinh,211,1266.7,96.6,0.43,718.4,North Central and Central Coast,2016
+Quang Binh,110,877.7,100.2,0.55,531.1,North Central and Central Coast,2016
+Quang Tri,135,623.5,96.4,0.59,348.9,North Central and Central Coast,2016
+Thua Thien Hue,235,1149.8,98.8,0.72,631.7,North Central and Central Coast,2016
+Da Nang,814,1046.2,97.1,1.8,556.1,North Central and Central Coast,2016
+Quang Nam,141,1487.7,95.7,0.47,902,North Central and Central Coast,2016
+Quang Ngai,243,1251.5,97.6,0.63,767.4,North Central and Central Coast,2016
+Binh Dinh,251,1524.6,95.5,0.29,931.4,North Central and Central Coast,2016
+Phu Yen,179,899.4,100,0.68,545.7,North Central and Central Coast,2016
+Khanh Hoa,236,1213.8,96.9,0.7,689.6,North Central and Central Coast,2016
+Ninh Thuan,179,601.4,101.8,0.92,347.7,North Central and Central Coast,2016
+Binh Thuan,154,1222.7,100.2,0.63,716.3,North Central and Central Coast,2016
+Kon Tum,52,507.8,114.1,2.4,300.9,Highlands,2016
+Gia Lai,91,1417.3,98.3,1.42,856.6,Highlands,2016
+Dak Lak,144,1874.5,101.3,1.12,1149.4,Highlands,2016
+Dak Nong,93,605.4,106.9,3.51,381.3,Highlands,2016
+Lam Dong,132,1288.2,101.6,1.01,793.8,Highlands,2016
+Binh Phuoc,139,956.4,96.5,1.28,581.1,South East,2016
+Tay Ninh,277,1118.8,100.1,0.66,651.4,South East,2016
+Binh Duong,741,1995.8,93.4,3.39,1280.1,South East,2016
+Dong Nai,505,2963.8,94.1,2.21,1634.7,South East,2016
+Ba Ria - Vung Tau,551,1092,100.2,1.04,598,South East,2016
+Ho Chi Minh,4025,8297.5,91.9,1.96,4335.7,South East,2016
+Long An,332,1490.6,98.7,0.43,899.4,Mekong Delta,2016
+Tien Giang,693,1740.2,96.3,0.7,1101.8,Mekong Delta,2016
+Ben Tre,528,1265.2,96.6,0.12,807.3,Mekong Delta,2016
+Tra Vinh,441,1040.5,95.6,0.57,615.5,Mekong Delta,2016
+Vinh Long,687,1048.6,97.2,0.34,630.4,Mekong Delta,2016
+Dong Thap,499,1687.3,99.2,0.18,1112.1,Mekong Delta,2016
+An Giang,611,2159.9,98.1,0.07,1228.3,Mekong Delta,2016
+Kien Giang,280,1776.7,100.4,0.89,1006.2,Mekong Delta,2016
+Can Tho,874,1257.9,99.3,1.17,712.9,Mekong Delta,2016
+Hau Giang,476,772.5,95.9,0.26,471.7,Mekong Delta,2016
+Soc Trang,396,1312.5,98.4,0.14,712.1,Mekong Delta,2016
+Bac Lieu,332,886.2,101.3,0.47,513,Mekong Delta,2016
+Ca Mau,234,1222.6,100.4,0.3,708.6,Mekong Delta,2016
+Ha Noi,2209,7420.1,98,1.99,4024.2,Hong river Delta,2017
+Vinh Phuc,874,1079.5,97.8,1.54,625.3,Hong river Delta,2017
+Bac Ninh,1477,1215.2,97.4,3.17,735.6,Hong river Delta,2017
+Quang Ninh,201,1243.6,103.6,1.9,728.1,Hong river Delta,2017
+Hai Duong,1077,1797.3,98.2,0.97,1071.7,Hong river Delta,2017
+Hai Phong,1279,1997.7,98.7,0.81,1136,Hong river Delta,2017
+Hung Yen,1265,1176.3,99.6,1.1,716.1,Hong river Delta,2017
+Thai Binh,1129,1791.5,94.5,0.43,1120.1,Hong river Delta,2017
+Ha Nam,935,805.7,96.7,0.91,487.4,Hong river Delta,2017
+Nam Dinh,1111,1853.3,95.8,-0.24,1051.9,Hong river Delta,2017
+Ninh Binh,694,961.9,99.1,0.9,576.9,Hong river Delta,2017
+Ha Giang,105,833.5,101.6,1.62,514.8,Midlands and northern mountains,2017
+Cao Bang,80,535.4,100,0.42,347.8,Midlands and northern mountains,2017
+Bac Kan,67,323.2,103.6,0.72,208.7,Midlands and northern mountains,2017
+Tuyen Quang,132,773.5,101.2,0.93,472.3,Midlands and northern mountains,2017
+Lao Cai,109,694.4,103,1.74,433.6,Midlands and northern mountains,2017
+Yen Bai,117,807.3,101,0.87,511.3,Midlands and northern mountains,2017
+Thai Nguyen,356,1255.1,96.1,1.07,763.2,Midlands and northern mountains,2017
+Lang Son,94,778.4,103.5,0.69,491.6,Midlands and northern mountains,2017
+Bac Giang,430,1674.4,100.3,2.35,1063.7,Midlands and northern mountains,2017
+Phu Tho,394,1392.9,98.5,1.52,841.6,Midlands and northern mountains,2017
+Dien Bien,59,567,102.2,1.96,333.7,Midlands and northern mountains,2017
+Lai Chau,49,446.1,103.8,1.88,267.8,Midlands and northern mountains,2017
+Son La,87,1228.9,102.4,1.55,748.2,Midlands and northern mountains,2017
+Hoa Binh,183,838.8,99.7,0.95,543.3,Midlands and northern mountains,2017
+Thanh Hoa,319,3544.4,99.2,0.92,2253.4,North Central and Central Coast,2017
+Nghe An,190,3131.3,99.6,1.36,1911.6,North Central and Central Coast,2017
+Ha Tinh,212,1272.2,98.7,0.59,705,North Central and Central Coast,2017
+Quang Binh,110,882.5,100.2,0.58,527.5,North Central and Central Coast,2017
+Quang Tri,136,627.3,98.2,0.61,345.8,North Central and Central Coast,2017
+Thua Thien Hue,235,1154.3,97.9,0.48,615.9,North Central and Central Coast,2017
+Da Nang,828,1064.1,97.2,1.62,594.8,North Central and Central Coast,2017
+Quang Nam,141,1493.8,96.5,0.51,879.4,North Central and Central Coast,2017
+Quang Ngai,245,1261.6,97.7,0.12,746.9,North Central and Central Coast,2017
+Binh Dinh,252,1529,96.1,0,893.7,North Central and Central Coast,2017
+Phu Yen,180,904.4,101,0.22,514.4,North Central and Central Coast,2017
+Khanh Hoa,238,1222.2,98.8,0.76,697.2,North Central and Central Coast,2017
+Ninh Thuan,181,607,100.3,0.67,335.9,North Central and Central Coast,2017
+Binh Thuan,106,5778.5,100.9,0.57,715.6,North Central and Central Coast,2017
+Kon Tum,54,520,101.3,2.41,304.1,Highlands,2017
+Gia Lai,93,1437.4,100.5,1.51,879.4,Highlands,2017
+Dak Lak,146,1896.6,101.8,0.76,1084.9,Highlands,2017
+Dak Nong,96,625.6,106.7,1.76,365.8,Highlands,2017
+Lam Dong,133,1298.9,101.4,0.79,733.6,Highlands,2017
+Binh Phuoc,141,968.9,102,1.03,593.4,South East,2017
+Tay Ninh,279,1126.2,99.7,1,692.2,South East,2017
+Binh Duong,769,2071,99.5,4.13,1492.1,South East,2017
+Dong Nai,516,3027.3,100.2,1.81,1738.7,South East,2017
+Ba Ria - Vung Tau,556,1101.6,100.6,0.86,606.6,South East,2017
+Ho Chi Minh,4097,8444.6,94.5,2.01,4578.7,South East,2017
+Long An,333,1496.8,99.3,1.04,996.3,Mekong Delta,2017
+Tien Giang,698,1751.8,96.3,0.67,1102.3,Mekong Delta,2017
+Ben Tre,529,1266.7,95.9,0.3,814.5,Mekong Delta,2017
+Tra Vinh,443,1045.6,97,0.05,593.2,Mekong Delta,2017
+Vinh Long,688,1050.2,97.1,-0.02,610.5,Mekong Delta,2017
+Dong Thap,500,1690.3,99.8,-0.4,975.6,Mekong Delta,2017
+An Giang,611,2161.7,98.6,-1.12,1096.2,Mekong Delta,2017
+Kien Giang,282,1792.6,102.6,0.24,954.9,Mekong Delta,2017
+Can Tho,885,1272.8,98.4,0.64,726.2,Mekong Delta,2017
+Hau Giang,478,774.6,100.1,-0.38,455.8,Mekong Delta,2017
+Soc Trang,397,1314.3,99.3,-0.75,674.4,Mekong Delta,2017
+Bac Lieu,335,894.3,100,0.55,514.5,Mekong Delta,2017
+Ca Mau,235,1226.3,102.3,-0.1,683.7,Mekong Delta,2017
+Ha Noi,2239,7520.7,98.1,2.23,4064.8,Hong river Delta,2018
+Vinh Phuc,884,1092.4,98.1,1.36,630.5,Hong river Delta,2018
+Bac Ninh,1516,1247.5,96.8,3.05,751.6,Hong river Delta,2018
+Quang Ninh,205,1266.5,103.6,1.46,734.7,Hong river Delta,2018
+Hai Duong,1083,1807.5,98.5,1.46,1067.6,Hong river Delta,2018
+Hai Phong,1289,2013.8,98.7,0.75,1138.2,Hong river Delta,2018
+Hung Yen,1278,1188.9,99.8,1.1,717.9,Hong river Delta,2018
+Thai Binh,1130,1793.2,94.7,0.43,1121.3,Hong river Delta,2018
+Ha Nam,938,808.2,96.8,0.88,487.7,Hong river Delta,2018
+Nam Dinh,1111,1854.4,95.9,-0.22,1044.6,Hong river Delta,2018
+Ninh Binh,702,973.3,99.2,0.96,586.2,Hong river Delta,2018
+Ha Giang,107,846.5,101.9,1.54,532.8,Midlands and northern mountains,2018
+Cao Bang,81,540.4,100.2,0.43,351.9,Midlands and northern mountains,2018
+Bac Kan,67,327.9,103.8,0.7,216.5,Midlands and northern mountains,2018
+Tuyen Quang,133,780.1,101.3,1.02,480.6,Midlands and northern mountains,2018
+Lao Cai,111,705.6,103.2,1.73,444.2,Midlands and northern mountains,2018
+Yen Bai,118,815.6,101.1,0.9,519.6,Midlands and northern mountains,2018
+Thai Nguyen,360,1268.3,95.9,1.39,767.2,Midlands and northern mountains,2018
+Lang Son,95,790.5,104.1,0.93,493.9,Midlands and northern mountains,2018
+Bac Giang,434,1691.8,100.5,2.34,1088.1,Midlands and northern mountains,2018
+Phu Tho,397,1404.2,98.6,1.34,848,Midlands and northern mountains,2018
+Dien Bien,60,576.7,102.5,1.92,341.4,Midlands and northern mountains,2018
+Lai Chau,50,456.3,103.8,2,274.3,Midlands and northern mountains,2018
+Son La,88,1242.7,102.6,1.62,758.6,Midlands and northern mountains,2018
+Hoa Binh,184,846.1,99.8,0.65,553,Midlands and northern mountains,2018
+Thanh Hoa,320,3558.2,99.4,0.77,2261.2,North Central and Central Coast,2018
+Nghe An,192,3157.1,99.8,1.38,1909.6,North Central and Central Coast,2018
+Ha Tinh,213,1277.5,98.8,0.49,707,North Central and Central Coast,2018
+Quang Binh,111,887.6,100.6,0.61,527.7,North Central and Central Coast,2018
+Quang Tri,136,630.6,98.2,0.7,346.4,North Central and Central Coast,2018
+Thua Thien Hue,237,1163.6,97.9,0.19,615,North Central and Central Coast,2018
+Da Nang,841,1080.7,97.2,1.51,601.4,North Central and Central Coast,2018
+Quang Nam,142,1501.1,96.7,0.5,883.4,North Central and Central Coast,2018
+Quang Ngai,247,1272.8,97.7,0.13,746.7,North Central and Central Coast,2018
+Binh Dinh,253,1534.8,96.5,0,907.3,North Central and Central Coast,2018
+Phu Yen,181,909.5,101.1,0.17,524.5,North Central and Central Coast,2018
+Khanh Hoa,240,1232.4,98.9,0.67,702.2,North Central and Central Coast,2018
+Ninh Thuan,182,611.8,100.4,0.6,337.5,North Central and Central Coast,2018
+Binh Thuan,108,5871,100.9,0.56,723.8,North Central and Central Coast,2018
+Kon Tum,55,535,101.2,2.37,307.6,Highlands,2018
+Gia Lai,94,1458.5,100.5,1.82,890,Highlands,2018
+Dak Lak,147,1919.2,101.7,0.61,1096.9,Highlands,2018
+Dak Nong,99,645.4,106.5,1.74,367.4,Highlands,2018
+Lam Dong,134,1312.9,101.4,0.79,748.8,Highlands,2018
+Binh Phuoc,142,979.6,101.8,1.26,588.8,South East,2018
+Tay Ninh,280,1133.4,99.8,0.83,676.9,South East,2018
+Binh Duong,803,2163.6,100.4,5.3,1562.2,South East,2018
+Dong Nai,526,3086.1,100.4,1.67,1765.1,South East,2018
+Ba Ria - Vung Tau,562,1112.9,100.7,0.98,610.1,South East,2018
+Ho Chi Minh,4171,8598.7,94.8,2.24,4684.9,South East,2018
+Long An,334,1503.1,99.4,1,1006.7,Mekong Delta,2018
+Tien Giang,702,1762.3,96.3,0.41,1125.8,Mekong Delta,2018
+Ben Tre,530,1268.2,95.9,0.27,814.5,Mekong Delta,2018
+Tra Vinh,445,1049.8,97,0.07,588.1,Mekong Delta,2018
+Vinh Long,689,1051.8,97.1,0.01,607.9,Mekong Delta,2018
+Dong Thap,500,1693.3,99.8,-0.4,1055.7,Mekong Delta,2018
+An Giang,612,2164.2,98.6,-1.18,1078.7,Mekong Delta,2018
+Kien Giang,285,1810.5,102.7,0.31,946.2,Mekong Delta,2018
+Can Tho,891,1282.3,98.4,0.44,731,Mekong Delta,2018
+Hau Giang,479,776.7,100,-0.32,450.7,Mekong Delta,2018
+Soc Trang,397,1315.9,99.3,-0.78,670.1,Mekong Delta,2018
+Bac Lieu,336,897,100.1,0.58,516.7,Mekong Delta,2018
+Ca Mau,236,1229.6,102.5,-0.12,688.3,Mekong Delta,2018
+Ha Noi,2410,8093.9,98.32,2.27,4118.3,Hong river Delta,2019
+Vinh Phuc,934,1154.8,99.32,1.45,647.4,Hong river Delta,2019
+Bac Ninh,1676,1378.6,97.62,3.08,777.7,Hong river Delta,2019
+Quang Ninh,214,1324.8,103.48,1.61,734.5,Hong river Delta,2019
+Hai Duong,1137,1896.9,98.8,1.02,1070.8,Hong river Delta,2019
+Hai Phong,1302,2033.3,98.74,0.83,1111.1,Hong river Delta,2019
+Hung Yen,1350,1255.8,100.25,1.08,726.8,Hong river Delta,2019
+Thai Binh,1174,1862.2,94.84,0.43,1133.1,Hong river Delta,2019
+Ha Nam,991,854.5,96.97,0.87,486.9,Hong river Delta,2019
+Nam Dinh,1067,1780.9,96.05,-0.19,1050.1,Hong river Delta,2019
+Ninh Binh,710,984.5,99.24,1.01,581.5,Hong river Delta,2019
+Ha Giang,108,858.1,102.14,1.37,533,Midlands and northern mountains,2019
+Cao Bang,79,530.9,100.39,0.42,348.9,Midlands and northern mountains,2019
+Bac Kan,65,314.4,104.07,0.74,211,Midlands and northern mountains,2019
+Tuyen Quang,134,786.3,101.43,1.02,489.8,Midlands and northern mountains,2019
+Lao Cai,115,733.3,103.45,1.74,435.5,Midlands and northern mountains,2019
+Yen Bai,119,823,101.25,1.04,520.4,Midlands and northern mountains,2019
+Thai Nguyen,366,1290.9,95.64,1.37,777.2,Midlands and northern mountains,2019
+Lang Son,94,782.8,104.49,0.9,500,Midlands and northern mountains,2019
+Bac Giang,465,1810.4,100.77,1.85,1107.9,Midlands and northern mountains,2019
+Phu Tho,415,1466.4,98.95,1.16,850.5,Midlands and northern mountains,2019
+Dien Bien,63,601.7,102.82,1.89,351.4,Midlands and northern mountains,2019
+Lai Chau,51,462.6,103.83,2.04,283.4,Midlands and northern mountains,2019
+Son La,89,1252.7,102.8,1.59,771,Midlands and northern mountains,2019
+Hoa Binh,186,855.8,99.97,0.63,556.2,Midlands and northern mountains,2019
+Thanh Hoa,328,3645.8,99.6,0.4,2295,North Central and Central Coast,2019
+Nghe An,202,3337.2,100.11,1.39,1926.1,North Central and Central Coast,2019
+Ha Tinh,215,1290.3,98.88,0.76,707.2,North Central and Central Coast,2019
+Quang Binh,112,896.6,100.72,0.61,516.1,North Central and Central Coast,2019
+Quang Tri,137,633.4,98.33,0.59,350.6,North Central and Central Coast,2019
+Thua Thien Hue,230,1129.5,97.96,0.36,621,North Central and Central Coast,2019
+Da Nang,888,1141.1,97.19,2.4,606.7,North Central and Central Coast,2019
+Quang Nam,142,1497.5,96.8,0.45,896.2,North Central and Central Coast,2019
+Quang Ngai,239,1231.9,97.75,0.11,739.2,North Central and Central Coast,2019
+Binh Dinh,245,1487.8,97.03,0,891.2,North Central and Central Coast,2019
+Phu Yen,174,873.2,101.22,0.19,521.1,North Central and Central Coast,2019
+Khanh Hoa,240,1232.8,99.05,0.68,695.2,North Central and Central Coast,2019
+Ninh Thuan,176,591,100.57,0.37,338.1,North Central and Central Coast,2019
+Binh Thuan,108,5861.3,100.99,0.41,726.8,North Central and Central Coast,2019
+Kon Tum,56,543.4,101,2.08,316.1,Highlands,2019
+Gia Lai,98,1520.2,100.43,1.64,908.1,Highlands,2019
+Dak Lak,144,1872.6,101.7,0.59,1117.6,Highlands,2019
+Dak Nong,96,625.8,106.34,1.69,374.1,Highlands,2019
+Lam Dong,133,1299.3,101.44,0.61,770.1,Highlands,2019
+Binh Phuoc,145,997.8,101.65,1.31,603.8,South East,2019
+Tay Ninh,290,1171.7,99.88,0.95,707,South East,2019
+Binh Duong,912,2456.3,101.36,4.74,1647.6,South East,2019
+Dong Nai,531,3113.7,100.68,1.92,1765.9,South East,2019
+Ba Ria - Vung Tau,582,1152.2,100.74,1.22,624.1,South East,2019
+Ho Chi Minh,4385,9038.6,95.07,2.21,4826,South East,2019
+Long An,377,1695.1,99.52,0.97,1056.8,Mekong Delta,2019
+Tien Giang,704,1766.3,96.38,0.41,1123.5,Mekong Delta,2019
+Ben Tre,538,1289.1,95.81,0.24,828.8,Mekong Delta,2019
+Tra Vinh,428,1009.3,96.98,0.05,578.7,Mekong Delta,2019
+Vinh Long,670,1022.6,97.1,-0.01,622.4,Mekong Delta,2019
+Dong Thap,472,1598.8,99.87,-0.46,929.4,Mekong Delta,2019
+An Giang,539,1907.4,98.62,-1.22,1002.5,Mekong Delta,2019
+Kien Giang,272,1723.7,102.8,0.32,952.6,Mekong Delta,2019
+Can Tho,859,1236,98.39,0.67,720.2,Mekong Delta,2019
+Hau Giang,451,732.2,99.81,-0.37,420.3,Mekong Delta,2019
+Soc Trang,362,1199.5,99.38,-0.77,657.9,Mekong Delta,2019
+Bac Lieu,340,908.2,100.19,0.58,518.1,Mekong Delta,2019
+Ca Mau,229,1194.3,102.63,-0.11,690.9,Mekong Delta,2019
+Ha Noi,2455,8246.6,98.09,1.89,4124.62,Hong river Delta,2020
+Vinh Phuc,948,1171.2,99.35,1.42,634.47,Hong river Delta,2020
+Bac Ninh,1725,1419.1,97.07,2.94,774.57,Hong river Delta,2020
+Quang Ninh,217,1337.6,103.46,0.96,693.57,Hong river Delta,2020
+Hai Duong,1149,1916.8,99.6,1.05,1015.05,Hong river Delta,2020
+Hai Phong,1315,2053.5,97.86,1,1077.77,Hong river Delta,2020
+Hung Yen,1364,1269.1,100.58,1.06,722.01,Hong river Delta,2020
+Thai Binh,1179,1870.3,95.05,0.43,1084.33,Hong river Delta,2020
+Ha Nam,1000,861.8,97.13,0.86,466.97,Hong river Delta,2020
+Nam Dinh,1067,1780.3,96.05,-0.03,1025.16,Hong river Delta,2020
+Ninh Binh,717,993.9,99.61,0.95,563.57,Hong river Delta,2020
+Ha Giang,110,870.2,102.1,1.42,529.36,Midlands and northern mountains,2020
+Cao Bang,80,533.1,100.35,0.42,348.99,Midlands and northern mountains,2020
+Bac Kan,65,316.5,103.59,0.66,205.97,Midlands and northern mountains,2020
+Tuyen Quang,135,792.9,101.41,0.84,480.5,Midlands and northern mountains,2020
+Lao Cai,117,746.4,103.78,1.78,432.98,Midlands and northern mountains,2020
+Yen Bai,121,831.6,101.35,1.04,521.21,Midlands and northern mountains,2020
+Thai Nguyen,371,1307.9,95.51,1.31,769.91,Midlands and northern mountains,2020
+Lang Son,95,788.7,104.7,0.75,487.72,Midlands and northern mountains,2020
+Bac Giang,473,1841.6,101.01,1.72,1102.8,Midlands and northern mountains,2020
+Phu Tho,419,1481.9,98.57,1.06,847.42,Midlands and northern mountains,2020
+Dien Bien,64,613.5,103.13,1.96,353.09,Midlands and northern mountains,2020
+Lai Chau,52,469.8,103.04,1.55,284.14,Midlands and northern mountains,2020
+Son La,90,1270.6,102.94,1.43,770.54,Midlands and northern mountains,2020
+Hoa Binh,188,861.2,101,0.63,531.02,Midlands and northern mountains,2020
+Thanh Hoa,330,3664.9,98.81,0.53,2225.48,North Central and Central Coast,2020
+Nghe An,204,3365.2,100.28,0.84,1926.96,North Central and Central Coast,2020
+Ha Tinh,216,1296.6,98.12,0.49,671.83,North Central and Central Coast,2020
+Quang Binh,113,902,100.83,0.6,505.26,North Central and Central Coast,2020
+Quang Tri,138,637.3,98.33,0.6,348.11,North Central and Central Coast,2020
+Thua Thien Hue,231,1133.7,98.06,0.37,583.7,North Central and Central Coast,2020
+Da Nang,910,1169.5,97.91,2.48,586.19,North Central and Central Coast,2020
+Quang Nam,142,1505,96.82,0.51,891.18,North Central and Central Coast,2020
+Quang Ngai,239,1233.4,97.76,0.12,731.69,North Central and Central Coast,2020
+Binh Dinh,245,1487.9,97.05,0.01,864.5,North Central and Central Coast,2020
+Phu Yen,174,874.3,101.18,0.13,510.68,North Central and Central Coast,2020
+Khanh Hoa,241,1240.4,99.19,0.62,671.7,North Central and Central Coast,2020
+Ninh Thuan,177,593.6,102.08,0.44,328.29,North Central and Central Coast,2020
+Binh Thuan,109,5932.1,101.13,0.57,712.01,North Central and Central Coast,2020
+Kon Tum,57,555.6,100.83,2.24,312.8,Highlands,2020
+Gia Lai,99,1541.8,100.57,1.43,898.84,Highlands,2020
+Dak Lak,145,1886.9,101.87,0.77,1101.7,Highlands,2020
+Dak Nong,98,637.9,104.98,1.93,373.21,Highlands,2020
+Lam Dong,134,1309.8,101.43,0.8,770.03,Highlands,2020
+Binh Phuoc,147,1011.1,101.64,1.33,603.84,South East,2020
+Tay Ninh,292,1178.3,100.11,0.57,692.83,South East,2020
+Binh Duong,958,2580.6,105,5.06,1650.85,South East,2020
+Dong Nai,542,3177.4,103.12,2.05,1767.62,South East,2020
+Ba Ria - Vung Tau,590,1167.9,98.3,1.36,597.38,South East,2020
+Ho Chi Minh,4476,9227.6,94.93,2.09,4769.63,South East,2020
+Long An,381,1713.7,99.68,1.09,1029.33,Mekong Delta,2020
+Tien Giang,706,1772.5,96.15,0.35,1112.13,Mekong Delta,2020
+Ben Tre,540,1292.4,96.03,0.26,827.08,Mekong Delta,2020
+Tra Vinh,428,1009.9,96.85,0.06,561.34,Mekong Delta,2020
+Vinh Long,670,1023,97.09,0.03,603.6,Mekong Delta,2020
+Dong Thap,473,1600,99.81,0.08,917.35,Mekong Delta,2020
+An Giang,539,1904.5,98.61,-0.15,985.55,Mekong Delta,2020
+Kien Giang,272,1728.9,102.84,0.3,923.98,Mekong Delta,2020
+Can Tho,862,1240.7,98.65,0.39,716.78,Mekong Delta,2020
+Hau Giang,450,729.8,101.38,-0.33,402.33,Mekong Delta,2020
+Soc Trang,361,1195.7,99.34,-0.32,641.91,Mekong Delta,2020
+Bac Lieu,342,913.5,100.15,0.58,507.76,Mekong Delta,2020
+Ca Mau,229,1193.9,102.64,-0.03,669.77,Mekong Delta,2020
