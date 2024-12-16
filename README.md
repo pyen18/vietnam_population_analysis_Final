@@ -15,5 +15,4 @@
 # main.py : lưu những gì cần chạy để có kết quả cuối cùng
 # requirements : lưu các thư viện cần dùng
 
-# vì không có thời gian sửa lại nên nhóm ko đưa 2 file jupiter notebook về định dạng trong folder script, nhưng kết quả các đồ thị thì vẫn được lưu vào folder "visualization" trong foler output
 
